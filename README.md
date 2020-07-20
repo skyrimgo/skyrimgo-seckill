@@ -2,9 +2,9 @@
 
 ## 业务逻辑
 
-* 商家后台更新库存,根据时间信息选择是否暴露秒杀接口
+* 商家更新库存,根据时间信息选择是否暴露秒杀接口
 
-* 用户执行秒杀，md5码验证，重复秒杀，秒杀结束，秒杀成功
+* 用户执行秒杀操作，md5码验证通过，重复秒杀（表主键约束），秒杀结束（数据库更新判断），秒杀成功（数据库更新成功）
 
 ## 技术栈
 
@@ -22,7 +22,7 @@
 
 ![image](https://skyrimgo.oss-cn-hangzhou.aliyuncs.com/good.png)
 
-## 数据库设计
+## 数据库表结构设计
 
 ![image](https://skyrimgo.oss-cn-hangzhou.aliyuncs.com/sql.png)
 
