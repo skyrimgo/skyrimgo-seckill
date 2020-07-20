@@ -15,7 +15,7 @@
 ## 前端交互流程
 
 秒杀商品列表
-
+![](https://skyrimgo.oss-cn-hangzhou.aliyuncs.com/goods.png)
 !()[https://skyrimgo.oss-cn-hangzhou.aliyuncs.com/goods.png]
 
 秒杀商品详情页
