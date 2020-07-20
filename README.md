@@ -1,20 +1,26 @@
 # 秒杀系统
 
+## 业务逻辑
+
+* 商家后台更新库存,根据时间信息选择是否暴露秒杀接口
+
+* 用户执行秒杀，md5码验证，重复秒杀，秒杀结束，秒杀成功
+
 ## 技术栈
 
 * 前端：html5+bootstrap+thymeleaf
 
 * 后端：Spring Boot+MyBatis+MySql+Redis+RabbitMQ
 
-##前端交互流程
+## 前端交互流程
 
 秒杀商品列表
 
-!()[]
+!()[https://skyrimgo.oss-cn-hangzhou.aliyuncs.com/goods.png]
 
 秒杀商品详情页
 
-!()[]
+!()[https://skyrimgo.oss-cn-hangzhou.aliyuncs.com/good.png]
 
 ## 数据库设计
 
@@ -39,12 +45,12 @@
 
 * 非消息队列聚合结果
 
-!()[]
+!()[https://skyrimgo.oss-cn-hangzhou.aliyuncs.com/nomq-result.png]
 
 * 消息队列聚合结果
 
-!()[]
+!()[https://skyrimgo.oss-cn-hangzhou.aliyuncs.com/mq-result.png]
 
 * 压力测试
 
-!()[]
+!()[https://skyrimgo.oss-cn-hangzhou.aliyuncs.com/compare.png]
