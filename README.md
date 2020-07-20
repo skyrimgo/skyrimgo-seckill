@@ -24,7 +24,7 @@
 
 ## 数据库表结构设计
 
-![image](https://skyrimgo.oss-cn-hangzhou.aliyuncs.com/sql.png)
+![image](https://skyrimgo.oss-cn-hangzhou.aliyuncs.com/mysql.png)
 
 ## Redis与数据库的交互
 
