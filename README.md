@@ -20,11 +20,11 @@
 
 秒杀商品详情页
 
-!()[https://skyrimgo.oss-cn-hangzhou.aliyuncs.com/good.png]
+![image](https://skyrimgo.oss-cn-hangzhou.aliyuncs.com/good.png)
 
 ## 数据库设计
 
-!()[]
+![image](https://skyrimgo.oss-cn-hangzhou.aliyuncs.com/sql.png)
 
 ## Redis与数据库的交互
 
@@ -45,12 +45,12 @@
 
 * 非消息队列聚合结果
 
-!()[https://skyrimgo.oss-cn-hangzhou.aliyuncs.com/nomq-result.png]
+![image](https://skyrimgo.oss-cn-hangzhou.aliyuncs.com/nomq-result.png)
 
 * 消息队列聚合结果
 
-!()[https://skyrimgo.oss-cn-hangzhou.aliyuncs.com/mq-result.png]
+![image](https://skyrimgo.oss-cn-hangzhou.aliyuncs.com/mq-result.png)
 
 * 压力测试
 
-!()[https://skyrimgo.oss-cn-hangzhou.aliyuncs.com/compare.png]
+![image](https://skyrimgo.oss-cn-hangzhou.aliyuncs.com/compare.png)
