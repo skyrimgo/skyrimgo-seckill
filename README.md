@@ -51,6 +51,6 @@
 
 ![image](https://skyrimgo.oss-cn-hangzhou.aliyuncs.com/mq-result.png)
 
-* 压力测试
+* 压力测试结果及分析
 
 ![image](https://skyrimgo.oss-cn-hangzhou.aliyuncs.com/compare.png)
